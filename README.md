@@ -6,7 +6,7 @@ PiKit brings a modern layer-based workflow to TouchDesigner, making it easier to
 
 Whether you're creating interactive installations, live visuals, generative art, or educational projects, PiKit helps you work faster through reusable layers, intuitive parameter management, and procedural workflows.
 
-> **Status:** 🚧 Alpha Demo Release
+> **Status:** 🚧 Demo Alpha Release
 
 ---
 
